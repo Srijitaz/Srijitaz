@@ -1,0 +1,35 @@
+<html>
+<head>
+    <title>Assignment 2 lets upgrade</title>
+<style> 
+div {
+  width: 200px;
+  height: 100px;
+  background:rgb(17, 241, 84);
+  position:sticky;
+  animation:design 10s infinite  ;
+  animation-delay: 2s;
+  text-indent: 0cm;
+  text-align-last:center;
+  text-align: center;
+}
+@keyframes design {
+  from {left: 20px;}
+  to {left: 300px;}
+  from {border-style:dashed}
+  to{border-style: double;}
+  from {background-color: rgb(17, 241, 84);}
+  to {background-color: rgb(255, 0, 0);}
+}
+</style>
+</head>
+<body>
+
+<h1>A LITTLE ABOUT ANIMATION <br>USING CSS</h1>
+
+<div>      BOX 1   </div>
+
+<p> The box just slides from left to right with it's color changing depicted as BOX 1.</p>
+
+</body>
+</html>

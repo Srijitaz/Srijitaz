@@ -1,0 +1,13 @@
+altitude = int(input("Enter the current altitude: "))
+if(altitude >=10000):
+    {
+        print("go around")
+     }
+elif(altitude >=5000 )and (altitude <=10000):
+    {
+        print("land the plane at 5k feet")
+    }
+else:
+    {
+        print("plane can land as it is under 5000 feet")
+     }

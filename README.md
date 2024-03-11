@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srijitaz
 - 👀 I’m interested in ...web developing
-- 🌱 I’m currently learning ...C, java, python
+- 🌱 I’m currently learning ...C, java, python, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
